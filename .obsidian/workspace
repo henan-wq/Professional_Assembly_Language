@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441
+    "width": 304
   },
   "right": {
     "id": "c9b3d53317c5b808",
@@ -89,12 +89,12 @@
   "active": "60b275b86d47c64b",
   "lastOpenFiles": [
     "README.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_0.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_1.md",
-    "Part_1/Chapter_1_What_is_assembly_language/Chapter_1_What_is_assembly_language.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
     "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.2_Instruction_code_format/1.1.2_Instruction_code_format.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_0.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_1.md",
     "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1_Processor_Instructions.md",
+    "Part_1/Chapter_1_What_is_assembly_language/Chapter_1_What_is_assembly_language.md",
     "Part_1/Chapter_1_What_is_assembly_language/testtt.md"
   ]
 }
