@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b4e67b8b20c89d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b275b86d47c64b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e5c6e989d1030b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "94db8c2c77b9d456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c73b650376b81673",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7ff5fb300353c13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 441
+  },
+  "right": {
+    "id": "c9b3d53317c5b808",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d45c25fb445710f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26c2b11f0205482",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "60b275b86d47c64b",
+  "lastOpenFiles": [
+    "README.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_0.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_1.md",
+    "Part_1/Chapter_1_What_is_assembly_language/Chapter_1_What_is_assembly_language.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.2_Instruction_code_format/1.1.2_Instruction_code_format.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1_Processor_Instructions.md",
+    "Part_1/Chapter_1_What_is_assembly_language/testtt.md"
+  ]
+}
