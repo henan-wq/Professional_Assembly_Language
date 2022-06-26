@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 474
   },
   "right": {
     "id": "c9b3d53317c5b808",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +89,15 @@
   },
   "active": "60b275b86d47c64b",
   "lastOpenFiles": [
-    "README.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.2_Instruction_code_format/1.1.2_Instruction_code_format.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_0.md",
     "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_0.md",
     "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.1_Instruction_code_processing/1.1.1_Instruction_code_processing001_1.md",
-    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1_Processor_Instructions.md",
-    "Part_1/Chapter_1_What_is_assembly_language/Chapter_1_What_is_assembly_language.md",
-    "Part_1/Chapter_1_What_is_assembly_language/testtt.md"
+    "Part_1/Chapter_1_What_is_assembly_language/1.2_High-level_languages/1.2_High-level_languages.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.2_High-level_languages/1.2.2_Characteristics_of_High-Level_Languages/1.2.2_Characteristics_of_High-Level_Languages.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.2_High-level_languages/1.2.1_Types_of_High-Level_Languages/1.2.1_Types_of_High-Level_Languages.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.3_Assembly_Language/1.3_Assembly_Language.md",
+    "Part_1/Chapter_1_What_is_assembly_language/1.1_Processor_Instructions/1.1.2_Instruction_code_format/1.1.2_Instruction_code_format.md",
+    "Pasted image 20220625193246.png",
+    "Pasted image 20220625223802.png"
   ]
 }
